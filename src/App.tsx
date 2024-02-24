@@ -54,7 +54,7 @@ const App = () => {
         <button
           type="submit"
           className="btn btn-primary"
-          disabled={!isValid}
+          // disabled={!isValid}
         >
           Submit
         </button>
