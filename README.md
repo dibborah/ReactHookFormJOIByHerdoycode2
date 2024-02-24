@@ -1,6 +1,5 @@
 # React + TypeScript + Vite
-![Uploading image.png…]()
-
+![image](https://github.com/dibborah/ReactHookFormJOIByHerdoycode2/assets/90625406/de94996e-e6c6-418c-8717-5f3f026a20f7)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
